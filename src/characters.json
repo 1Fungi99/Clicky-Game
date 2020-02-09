@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Spongebob SquarePants",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/220px-SpongeBob_SquarePants_character.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Patrick Star",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Squidward Tentacles",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/220px-Squidward_Tentacles.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Eugene Krabs",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/220px-Mr._Krabs.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Sandy Cheeks",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/220px-Sandy_Cheeks.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Pearl Krabs",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Pearl_Krabs.svg/220px-Pearl_Krabs.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "Mrs. Puff",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Mrs._Puff.svg/220px-Mrs._Puff.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Plankton and Karen",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Plankton_and_Karen.svg/220px-Plankton_and_Karen.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "Gary the Snail",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.deepseanews.com%2Fwp-content%2Fuploads%2F2016%2F01%2FGary_the_Snail-300x282.png&f=1&nofb=1"
+  }
+]

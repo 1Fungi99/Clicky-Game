@@ -1,0 +1,11 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: 5%;
+  position: fixed;
+  background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F5%2F6%2F9%2F808641-free-download-spongebob-flower-sky-background-2500x1600.jpg&f=1&nofb=1");
+  background-size: cover;
+  padding-top: 0.5%;
+}

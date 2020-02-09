@@ -1,0 +1,8 @@
+.buffer {
+  background: transparent;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}

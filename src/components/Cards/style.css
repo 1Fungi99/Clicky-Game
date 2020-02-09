@@ -1,0 +1,19 @@
+.card-img {
+  height: 220px;
+  width: 220px;
+  padding: 3px;
+  border: 5px solid #ed99fd;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2Fbb%2F0d%2F45%2Fbb0d4572eae04ea2b806c6a05b0e2afa.jpg&f=1&nofb=1");
+  background-size: cover;
+  position: relative;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+.card {
+  height: 220px;
+  width: 220px;
+  margin: 2px 2px 2px 2px;
+}
